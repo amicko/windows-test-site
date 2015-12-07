@@ -1,0 +1,51 @@
+header, section, aside, footer {
+  border: 1px solid grey;
+  margin: 1.5%; }
+
+header {
+  text-align: center; }
+
+nav {
+  clear: both;
+  text-align: center; }
+
+nav ul li {
+  clear: both;
+  display: inline-block;
+  text-align: center;
+  border: outset;
+  padding: 2px; }
+
+nav ul li button {
+  text-decoration: none; }
+
+aside {
+  float: left;
+  min-width: 25%;
+  width: 25%; }
+
+div {
+  width: 65%; }
+
+#top {
+  float: right; }
+
+#bottom {
+  float: right; }
+
+.left {
+  max-width: 45%;
+  float: left;
+  position: relative; }
+
+.right {
+  width: 45%;
+  float: left; }
+
+footer {
+  min-width: 97%;
+  margin-top: auto;
+  clear: both;
+  text-align: center; }
+
+/*# sourceMappingURL=test.css.map */
